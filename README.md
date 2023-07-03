@@ -1,3 +1,3 @@
 # Jenkins-SonarQube-Docker
-![CI CD PIPELINE](Mypipeline.jpg)
+![CI CD PIPELINE](Mypipeline.png)
 
